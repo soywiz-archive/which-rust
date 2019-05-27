@@ -1,0 +1,7 @@
+[package]
+name = "which"
+version = "1.0.0"
+authors = ["soywi"]
+edition = "2018"
+
+[dependencies]
